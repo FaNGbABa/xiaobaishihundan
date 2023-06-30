@@ -118,6 +118,7 @@ payload:
   - DOMAIN-SUFFIX,ad.test.ximalaya.com
   - DOMAIN-SUFFIX,ad.ximalaya.com
   - DOMAIN-SUFFIX,adash-c.ut.taobao.com
+  - DOMAIN-SUFFIX,adash.man.aliyuncs.com
   - DOMAIN-SUFFIX,adashbc.m.taobao.com
   - DOMAIN-SUFFIX,adashbc.ut.taobao.com
   - DOMAIN-SUFFIX,adashx4yt.m.taobao.com
@@ -132,6 +133,7 @@ payload:
   - DOMAIN-SUFFIX,adjust.com
   - DOMAIN-SUFFIX,adkwai.com
   - DOMAIN-SUFFIX,admusicpic.music.126.net
+  - DOMAIN-SUFFIX,adpai.thepaper.cn
   - DOMAIN-SUFFIX,adping.qq.com
   - DOMAIN-SUFFIX,adpm.app.qq.com
   - DOMAIN-SUFFIX,adrdir.qq.com
@@ -172,6 +174,7 @@ payload:
   - DOMAIN-SUFFIX,adx-track.domob.cn
   - DOMAIN-SUFFIX,adx.hubcloud.com.cn
   - DOMAIN-SUFFIX,aeventlog.beacon.qq.com
+  - DOMAIN-SUFFIX,afd.baidu.com
   - DOMAIN-SUFFIX,afd.l.google.com
   - DOMAIN-SUFFIX,afs.googlesyndication.com
   - DOMAIN-SUFFIX,agoodm.m.taobao.com
@@ -179,33 +182,45 @@ payload:
   - DOMAIN-SUFFIX,ai.taobao.com
   - DOMAIN-SUFFIX,ali-ad.a.yximgs.com
   - DOMAIN-SUFFIX,alitui.weibo.com
+  - DOMAIN-SUFFIX,als.baidu.com
+  - DOMAIN-SUFFIX,amdcopen.m.taobao.com
   - DOMAIN-SUFFIX,analy.qq.com
   - DOMAIN-SUFFIX,analytics.meituan.net
+  - DOMAIN-SUFFIX,analytics.rayjump.com
   - DOMAIN-SUFFIX,android.bugly.qq.com
   - DOMAIN-SUFFIX,anythinktech.com
   - DOMAIN-SUFFIX,api-access.pangolin-sdk-toutiao-b.com
   - DOMAIN-SUFFIX,api-access.pangolin-sdk-toutiao.com
+  - DOMAIN-SUFFIX,api-d.dutils.com
   - DOMAIN-SUFFIX,api-fc.dutils.com
   - DOMAIN-SUFFIX,api-fd.dutils.com
+  - DOMAIN-SUFFIX,api-htp.beizi.biz
   - DOMAIN-SUFFIX,api.anythinktech.com
+  - DOMAIN-SUFFIX,api.applink.mob.com
+  - DOMAIN-SUFFIX,api.share.mob.com
   - DOMAIN-SUFFIX,api.verify.mob.com
   - DOMAIN-SUFFIX,api.waptest.taobao.com
   - DOMAIN-SUFFIX,apoll.m.taobao.com
   - DOMAIN-SUFFIX,app-measurement.com
+  - DOMAIN-SUFFIX,app.duxiaoman.com
   - DOMAIN-SUFFIX,appcenter.ms
   - DOMAIN-SUFFIX,appier.net
   - DOMAIN-SUFFIX,applovin.com
   - DOMAIN-SUFFIX,applvn.com
   - DOMAIN-SUFFIX,astrategy.beacon.qq.com
+  - DOMAIN-SUFFIX,audid.umeng.com
   - DOMAIN-SUFFIX,b-gtc.gepush.com
   - DOMAIN-SUFFIX,b-gtc.getui.net
   - DOMAIN-SUFFIX,b.qchannel03.cn
   - DOMAIN-SUFFIX,badad.googleplex.com
   - DOMAIN-SUFFIX,bayescom.com
+  - DOMAIN-SUFFIX,beacon-api.aliyuncs.com
   - DOMAIN-SUFFIX,bingads.microsoft.com
   - DOMAIN-SUFFIX,biz.weibo.com
   - DOMAIN-SUFFIX,bjuser.jpush.cn
   - DOMAIN-SUFFIX,blaaaa12.googlecode.com
+  - DOMAIN-SUFFIX,boss4.ott.cibntv.net
+  - DOMAIN-SUFFIX,browserkernel.baidu.com
   - DOMAIN-SUFFIX,btrace.qq.com
   - DOMAIN-SUFFIX,c-gtc.gepush.com
   - DOMAIN-SUFFIX,c-gtc.getui.net
@@ -217,6 +232,7 @@ payload:
   - DOMAIN-SUFFIX,canvas.gdt.qq.com
   - DOMAIN-SUFFIX,cdn-api-verify.mob.com
   - DOMAIN-SUFFIX,cfg.imtt.qq.com
+  - DOMAIN-SUFFIX,check.rayjump.com
   - DOMAIN-SUFFIX,click.mz.simba.taobao.com
   - DOMAIN-SUFFIX,click.simba.taobao.com
   - DOMAIN-SUFFIX,click.tz.simba.taobao.com
@@ -230,16 +246,21 @@ payload:
   - DOMAIN-SUFFIX,cm.game.bilibili.com
   - DOMAIN-SUFFIX,cm.kwad.com
   - DOMAIN-SUFFIX,cm.track.biligame.bilibili.com
+  - DOMAIN-SUFFIX,configure.rayjump.com
   - DOMAIN-SUFFIX,crashlytics.com
   - DOMAIN-SUFFIX,d.gdt.qq.com
+  - DOMAIN-SUFFIX,d.kugou.com
   - DOMAIN-SUFFIX,d.qchannel03.cn
   - DOMAIN-SUFFIX,d3g.qq.com
   - DOMAIN-SUFFIX,da.netease.com
   - DOMAIN-SUFFIX,datk.anythinktech.com
   - DOMAIN-SUFFIX,dc.sigmob.cn
   - DOMAIN-SUFFIX,deliver.kuwo.cn
+  - DOMAIN-SUFFIX,detect.rayjump.com
   - DOMAIN-SUFFIX,devs-data.dutils.com
+  - DOMAIN-SUFFIX,dm.bytedance.com
   - DOMAIN-SUFFIX,dm.pstatp.com
+  - DOMAIN-SUFFIX,dm.toutiao.com
   - DOMAIN-SUFFIX,doubleclick.net
   - DOMAIN-SUFFIX,download.sj.qq.com
   - DOMAIN-SUFFIX,dp3.qq.com
@@ -250,8 +271,11 @@ payload:
   - DOMAIN-SUFFIX,e.kuaishou.com
   - DOMAIN-SUFFIX,e.qq.com
   - DOMAIN-SUFFIX,easytomessage.com
+  - DOMAIN-SUFFIX,engine.tuia.cn
   - DOMAIN-SUFFIX,errlog.umeng.com
+  - DOMAIN-SUFFIX,errnewlog.umeng.com
   - DOMAIN-SUFFIX,eventlog.beacon.qq.com
+  - DOMAIN-SUFFIX,exceptionlog.kugou.com
   - DOMAIN-SUFFIX,fav.simba.taobao.com
   - DOMAIN-SUFFIX,firebase.io
   - DOMAIN-SUFFIX,fusion.qq.com
@@ -284,6 +308,7 @@ payload:
   - DOMAIN-SUFFIX,img.ffzypic.com
   - DOMAIN-SUFFIX,imp.voiceads.cn
   - DOMAIN-SUFFIX,ios.bugly.qq.com
+  - DOMAIN-SUFFIX,ipv4.gdt.qq.com
   - DOMAIN-SUFFIX,irc.drapro1.com
   - DOMAIN-SUFFIX,j.wit.qq.com
   - DOMAIN-SUFFIX,jdqd.jd.com
@@ -294,6 +319,7 @@ payload:
   - DOMAIN-SUFFIX,kuwoyy.com
   - DOMAIN-SUFFIX,kwmsg.kuwo.cn
   - DOMAIN-SUFFIX,l.qq.com
+  - DOMAIN-SUFFIX,lazy.rayjump.com
   - DOMAIN-SUFFIX,linkeye.ximalaya.com
   - DOMAIN-SUFFIX,livep.l.ott.video.qq.com
   - DOMAIN-SUFFIX,livep.l.qq.com
@@ -303,6 +329,7 @@ payload:
   - DOMAIN-SUFFIX,log-alibaba-taobao-douyin.cdn.bcebos.com
   - DOMAIN-SUFFIX,log-verify.mob.com
   - DOMAIN-SUFFIX,log.qchannel03.cn
+  - DOMAIN-SUFFIX,log.tbs.qq.com
   - DOMAIN-SUFFIX,logs.amap.com
   - DOMAIN-SUFFIX,m-adash.m.taobao.com
   - DOMAIN-SUFFIX,m.mpl.dutils.com
@@ -319,13 +346,17 @@ payload:
   - DOMAIN-SUFFIX,mini2015.qq.com
   - DOMAIN-SUFFIX,mo.res.wpscdn.cn
   - DOMAIN-SUFFIX,mob.com
+  - DOMAIN-SUFFIX,mobads-logs.baidu.com
+  - DOMAIN-SUFFIX,mobads.baidu.com
   - DOMAIN-SUFFIX,mobilead.kuwo.cn
   - DOMAIN-SUFFIX,mobileads.google.com
+  - DOMAIN-SUFFIX,mobilelog.kugou.com
   - DOMAIN-SUFFIX,monitor.uu.qq.com
   - DOMAIN-SUFFIX,mqqad.cs0309.html5.qq.com
   - DOMAIN-SUFFIX,mqqad.html5.qq.com
   - DOMAIN-SUFFIX,mqqadr.reader.qq.com
   - DOMAIN-SUFFIX,msclick2.kuwo.cn
+  - DOMAIN-SUFFIX,msg.mobile.kugou.com
   - DOMAIN-SUFFIX,msphoneclick.kuwo.cn
   - DOMAIN-SUFFIX,mtrace.qq.com
   - DOMAIN-SUFFIX,nc.gdt.qq.com
@@ -334,13 +365,17 @@ payload:
   - DOMAIN-SUFFIX,news.mpush.qq.com
   - DOMAIN-SUFFIX,news.ssp.qq.com
   - DOMAIN-SUFFIX,nex.163.com
+  - DOMAIN-SUFFIX,nj.t.bcsp2p.baidu.com
   - DOMAIN-SUFFIX,novelsns.html5.qq.com
+  - DOMAIN-SUFFIX,nsclick.baidu.com
+  - DOMAIN-SUFFIX,offmsg.umeng.com
   - DOMAIN-SUFFIX,open.e.kuaishou.cn
   - DOMAIN-SUFFIX,open.e.kuaishou.com
   - DOMAIN-SUFFIX,optimus-ads.amap.com
   - DOMAIN-SUFFIX,oth.eve.mdt.qq.com
   - DOMAIN-SUFFIX,oth.str.mdt.qq.com
   - DOMAIN-SUFFIX,oth.update.mdt.qq.com
+  - DOMAIN-SUFFIX,p.l.qq.com
   - DOMAIN-SUFFIX,p1-feedback.byteimg.com
   - DOMAIN-SUFFIX,p1.meituan.net
   - DOMAIN-SUFFIX,p3-be-pack-sign.pglstatp-toutiao.com
@@ -361,6 +396,8 @@ payload:
   - DOMAIN-SUFFIX,pingma.qq.com
   - DOMAIN-SUFFIX,pingtcss.qq.com
   - DOMAIN-SUFFIX,pmir.3g.qq.com
+  - DOMAIN-SUFFIX,pok.mintegral.net
+  - DOMAIN-SUFFIX,policy.rayjump.com
   - DOMAIN-SUFFIX,promote.biz.weibo.cn
   - DOMAIN-SUFFIX,pv.sohu.com
   - DOMAIN-SUFFIX,pvstat.html5.qq.com
@@ -374,12 +411,14 @@ payload:
   - DOMAIN-SUFFIX,report.meituan.com
   - DOMAIN-SUFFIX,rich.kuwo.cn
   - DOMAIN-SUFFIX,rm.gdt.qq.com
+  - DOMAIN-SUFFIX,rpt.gdt.qq.com
   - DOMAIN-SUFFIX,s.alitui.weibo.com
   - DOMAIN-SUFFIX,s.jpush.cn
   - DOMAIN-SUFFIX,sc.ffsevhuy.com
   - DOMAIN-SUFFIX,scdown.qq.com
   - DOMAIN-SUFFIX,sdk-open-phone.getui.com
   - DOMAIN-SUFFIX,sdk.alibaba.com.ailbaba.me
+  - DOMAIN-SUFFIX,sdk.api.bjshcw.com
   - DOMAIN-SUFFIX,sdk.beizi.biz
   - DOMAIN-SUFFIX,sdk.e.qq.com
   - DOMAIN-SUFFIX,sdk.open.talk.gepush.com
@@ -388,23 +427,28 @@ payload:
   - DOMAIN-SUFFIX,sdkapp.uve.weibo.com
   - DOMAIN-SUFFIX,sdktmp.hubcloud.com.cn
   - DOMAIN-SUFFIX,sentry.io
+  - DOMAIN-SUFFIX,serveraddr.service.kugou.com
   - DOMAIN-SUFFIX,setting.snswin.qq.com
   - DOMAIN-SUFFIX,sf3-fe-tos.pglstatp-toutiao.com
   - DOMAIN-SUFFIX,shouji.sougou.com
   - DOMAIN-SUFFIX,simba.m.taobao.com
   - DOMAIN-SUFFIX,sis.jpush.io
   - DOMAIN-SUFFIX,sngmta.qq.com
+  - DOMAIN-SUFFIX,sofire.baidu.com
   - DOMAIN-SUFFIX,srd.simba.taobao.com
   - DOMAIN-SUFFIX,stat.simba.taobao.com
+  - DOMAIN-SUFFIX,staticsns.cdn.bcebos.com
   - DOMAIN-SUFFIX,stg-data.ads.heytapmobi.com
   - DOMAIN-SUFFIX,strategy.beacon.qq.com
   - DOMAIN-SUFFIX,t.gdt.qq.com
   - DOMAIN-SUFFIX,t.sj.qq.com
   - DOMAIN-SUFFIX,ta.qq.com
   - DOMAIN-SUFFIX,tajs.qq.com
+  - DOMAIN-SUFFIX,tangram.e.qq.com
   - DOMAIN-SUFFIX,tcbox.baidu.com
   - DOMAIN-SUFFIX,tcss.qq.com
   - DOMAIN-SUFFIX,tdid.m.qq.com
+  - DOMAIN-SUFFIX,techain.baidu.com
   - DOMAIN-SUFFIX,temai.taobao.com
   - DOMAIN-SUFFIX,textlink.simba.taobao.com
   - DOMAIN-SUFFIX,tns.simba.taobao.com
@@ -419,10 +463,14 @@ payload:
   - DOMAIN-SUFFIX,ulogs.umeng.com
   - DOMAIN-SUFFIX,ulogs.umengcloud.com
   - DOMAIN-SUFFIX,umeng.com.gds.alibabadns.com
+  - DOMAIN-SUFFIX,umengacs.m.taobao.com
   - DOMAIN-SUFFIX,union.youdao.com
   - DOMAIN-SUFFIX,unitacs.m.taobao.com
+  - DOMAIN-SUFFIX,update.mobile.kugou.com
   - DOMAIN-SUFFIX,updatecenter.qq.com
   - DOMAIN-SUFFIX,updatepage.kuwo.cn
+  - DOMAIN-SUFFIX,us.l.qq.com
+  - DOMAIN-SUFFIX,utoken.umeng.com
   - DOMAIN-SUFFIX,video-ad-stats.googlesyndication.com
   - DOMAIN-SUFFIX,video.ureport.push.qq.com
   - DOMAIN-SUFFIX,video.wap.mpush.qq.com
