@@ -56,3 +56,92 @@
   - DOMAIN-SUFFIX,hoyoverse.com
   - DOMAIN-SUFFIX,n0vadesktop.com
   - PROCESS-NAME,com.miHoYo.GenshinImpact
+
+  # >> Riot
+  - DOMAIN-SUFFIX,championshipseriesleague.com
+  - DOMAIN-SUFFIX,convrgencegame.com
+  - DOMAIN-SUFFIX,historyofdota.com
+  - DOMAIN-SUFFIX,historyofdota.net
+  - DOMAIN-SUFFIX,historyofdota.org
+  - DOMAIN-SUFFIX,instituteofwar.org
+  - DOMAIN-SUFFIX,lcsmerch.com
+  - DOMAIN-SUFFIX,leaguehighschool.com
+  - DOMAIN-SUFFIX,leagueoflegends.ca
+  - DOMAIN-SUFFIX,leagueoflegends.cn
+  - DOMAIN-SUFFIX,leagueoflegends.co.kr
+  - DOMAIN-SUFFIX,leagueoflegends.com
+  - DOMAIN-SUFFIX,leagueoflegends.info
+  - DOMAIN-SUFFIX,leagueoflegends.kr
+  - DOMAIN-SUFFIX,leagueoflegends.net
+  - DOMAIN-SUFFIX,leagueoflegends.org
+  - DOMAIN-SUFFIX,leagueoflegendsscripts.com
+  - DOMAIN-SUFFIX,leaguesharp.info
+  - DOMAIN-SUFFIX,leaguoflegends.com
+  - DOMAIN-SUFFIX,learnwithleague.com
+  - DOMAIN-SUFFIX,lol-europe.com
+  - DOMAIN-SUFFIX,lolclub.org
+  - DOMAIN-SUFFIX,lolespor.com
+  - DOMAIN-SUFFIX,lolesports.com
+  - DOMAIN-SUFFIX,lolfanart.net
+  - DOMAIN-SUFFIX,lolpcs.com
+  - DOMAIN-SUFFIX,lolshop.co.kr
+  - DOMAIN-SUFFIX,lolstatic-a.akamaihd.net
+  - DOMAIN-SUFFIX,lolstatic.com
+  - DOMAIN-SUFFIX,lolusercontent.com
+  - DOMAIN-SUFFIX,lpl.com.cn
+  - DOMAIN-SUFFIX,molesports.com
+  - DOMAIN-SUFFIX,playvalorant.com
+  - DOMAIN-SUFFIX,pvp.net
+  - DOMAIN-SUFFIX,pvp.tv
+  - DOMAIN-SUFFIX,rgpub.io
+  - DOMAIN-SUFFIX,riot-games.com
+  - DOMAIN-SUFFIX,riot.com
+  - DOMAIN-SUFFIX,riot.net
+  - DOMAIN-SUFFIX,riotcdn.net
+  - DOMAIN-SUFFIX,riotforgegames.com
+  - DOMAIN-SUFFIX,riotgames.co.kr
+  - DOMAIN-SUFFIX,riotgames.com
+  - DOMAIN-SUFFIX,riotgames.info
+  - DOMAIN-SUFFIX,riotgames.jp
+  - DOMAIN-SUFFIX,riotgames.net
+  - DOMAIN-SUFFIX,riotgames.tv
+  - DOMAIN-SUFFIX,riotpin.com
+  - DOMAIN-SUFFIX,riotpoints.com
+  - DOMAIN-SUFFIX,rstatic.net
+  - DOMAIN-SUFFIX,ruinedking.com
+  - DOMAIN-SUFFIX,supremacy.com
+  - DOMAIN-SUFFIX,supremacy.net
+  - DOMAIN-SUFFIX,ulol.com
+  
+  # >> Garena
+  - DOMAIN,dlgarenanow-a.akamaihd.net
+  - DOMAIN-SUFFIX,avatargarenanow-a.akamaihd.net
+  - DOMAIN-SUFFIX,cdngarenanow-a.akamaihd.net
+  - DOMAIN-SUFFIX,dlmobilegarena-a.akamaihd.net
+  - DOMAIN-SUFFIX,garena.co.id
+  - DOMAIN-SUFFIX,garena.co.th
+  - DOMAIN-SUFFIX,garena.com
+  - DOMAIN-SUFFIX,garena.live
+  - DOMAIN-SUFFIX,garena.my
+  - DOMAIN-SUFFIX,garena.ph
+  - DOMAIN-SUFFIX,garena.sg
+  - DOMAIN-SUFFIX,garena.tv
+  - DOMAIN-SUFFIX,garena.tw
+  - DOMAIN-SUFFIX,garena.vn
+  - DOMAIN-SUFFIX,garenanow.com
+  - DOMAIN-SUFFIX,seagroup.com
+  
+  # >> WorldofWarcraft
+  - IP-CIDR,103.4.115.248/32
+  - IP-CIDR,137.221.105.2/32
+  - IP-CIDR,185.60.112.157/32
+  - IP-CIDR,185.60.112.158/32
+  - IP-CIDR,185.60.114.159/32
+  - IP-CIDR,210.71.148.11/32
+  - IP-CIDR,211.115.104.1/32
+  - IP-CIDR,24.105.62.129/32
+
+  # >> WildRift
+  - DOMAIN-SUFFIX,pvp.net
+  - DOMAIN-SUFFIX,riotcdn.net
+  - DOMAIN-SUFFIX,riotgames.com
