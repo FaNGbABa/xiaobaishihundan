@@ -1,0 +1,5 @@
+payload:
+  # 黑名单模式需要代理的网站 自用
+  - DOMAIN-SUFFIX,fuqing.cz
+  - DOMAIN-SUFFIX,fuqing.ch
+  - DOMAIN-SUFFIX,v2ex.com
