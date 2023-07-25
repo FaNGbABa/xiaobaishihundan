@@ -4,3 +4,4 @@ payload:
   - DOMAIN-SUFFIX,fuqing.ch
   - DOMAIN-SUFFIX,v2ex.com
   - IP-CIDR,139.99.40.48/32,no-resolve
+  - IP-CIDR,162.159.195.95/32
