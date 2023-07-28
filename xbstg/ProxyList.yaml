@@ -1,7 +1,30 @@
 payload:
-  # 黑名单模式需要代理的网站 自用
-  - DOMAIN-SUFFIX,fuqing.cz
-  - DOMAIN-SUFFIX,fuqing.ch
-  - DOMAIN-SUFFIX,v2ex.com
+  # >> 黑名单模式需要代理的网站 自用
+  
+  # >> Alist
   - IP-CIDR,139.99.40.48/32
   - IP-CIDR,162.159.195.95/32
+  
+  # >> 西数WESTDATA Air
+  - DOMAIN-SUFFIX,fuqing.ch
+  - DOMAIN-SUFFIX,fuqing.cz
+  
+  # >> v2ex
+  - DOMAIN-SUFFIX,v2ex.com
+  
+  # >> 资讯新闻网站
+  - DOMAIN-SUFFIX,businessinsider.com
+  - DOMAIN-SUFFIX,dw.com
+  - DOMAIN-SUFFIX,forbes.com
+  - DOMAIN-SUFFIX,independent.co.uk
+  - DOMAIN-SUFFIX,ltn.com.tw
+  - DOMAIN-SUFFIX,nbcnews.com
+  - DOMAIN-SUFFIX,reuters.com
+  - DOMAIN-SUFFIX,rfi.fr
+  - DOMAIN-SUFFIX,setn.com
+  - DOMAIN-SUFFIX,storm.mg
+  - DOMAIN-SUFFIX,today.line.me
+  - DOMAIN-SUFFIX,udn.com
+  - DOMAIN-SUFFIX,voachinese.com
+  - DOMAIN-SUFFIX,wsj.com
+  - DOMAIN-SUFFIX,yahoo.com
