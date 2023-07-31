@@ -1,5 +1,5 @@
 payload:
-  # TIKTOK
+  # >> TikTok
   - DOMAIN,p16-tiktokcdn-com.akamaized.net
   - DOMAIN-KEYWORD,-tiktokcdn-com
   - DOMAIN-KEYWORD,musical.ly
