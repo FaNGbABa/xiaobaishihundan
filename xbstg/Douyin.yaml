@@ -290,4 +290,3 @@ payload:
   - DOMAIN-SUFFIX,zjgslb.com
   - DOMAIN-SUFFIX,zjurl.cn
   - IP-CIDR,114.246.10.65/32
-  - PROCESS-NAME,com.zhiliaoapp.musically
