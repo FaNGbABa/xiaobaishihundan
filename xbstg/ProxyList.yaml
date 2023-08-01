@@ -28,3 +28,7 @@ payload:
   - DOMAIN-SUFFIX,voachinese.com
   - DOMAIN-SUFFIX,wsj.com
   - DOMAIN-SUFFIX,yahoo.com
+
+  # IP检测
+  - DOMAIN-SUFFIX,ipjiance.cn
+  - DOMAIN-SUFFIX,ipjiance.com
