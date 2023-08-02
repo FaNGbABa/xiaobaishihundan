@@ -1,5 +1,12 @@
 payload:
-  # >> 黑名单模式需要代理的网站 自用
+  # >> 需要代理的网站
+  
+  # Emby
+  - DOMAIN-SUFFIX,789.123456.al
+  - DOMAIN-SUFFIX,direct.nebula-emby.com
+  - DOMAIN-SUFFIX,ju.dog
+  - IP-CIDR,202.61.255.248/32
+  - IP-CIDR,193.30.123.77/32
   
   # >> Alist
   - IP-CIDR,139.99.40.48/32
