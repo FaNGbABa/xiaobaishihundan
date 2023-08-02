@@ -32,3 +32,6 @@ payload:
   # IP检测
   - DOMAIN-SUFFIX,ipjiance.cn
   - DOMAIN-SUFFIX,ipjiance.com
+
+  # 18+
+  - DOMAIN-SUFFIX,sehuatang.org
