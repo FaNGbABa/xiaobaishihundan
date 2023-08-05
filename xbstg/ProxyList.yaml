@@ -1,5 +1,6 @@
 payload:
   # >> 需要代理的网站
+  - DOMAIN-SUFFIX,archive.org
   
   # Emby
   - DOMAIN-SUFFIX,789.123456.al
@@ -47,5 +48,7 @@ payload:
   - DOMAIN-SUFFIX,u9a9.com
 
   # >> TeraBox
+  - DOMAIN-SUFFIX,hotmediahub.com
   - DOMAIN-SUFFIX,terabox.com
+  - DOMAIN-SUFFIX,terabox.fun
   - DOMAIN-SUFFIX,teraboxcdn.com
