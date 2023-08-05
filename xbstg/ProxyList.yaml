@@ -36,12 +36,16 @@ payload:
   - DOMAIN-SUFFIX,wsj.com
   - DOMAIN-SUFFIX,yahoo.com
 
-  # IP检测
+  # >> IP检测
   - DOMAIN-SUFFIX,ipjiance.cn
   - DOMAIN-SUFFIX,ipjiance.com
 
-  # 18+
+  # >> 18+
   - DOMAIN-SUFFIX,qwe77.com
   - DOMAIN-SUFFIX,sehuatang.org
   - DOMAIN-SUFFIX,t66y.com
   - DOMAIN-SUFFIX,u9a9.com
+
+  # >> TeraBox
+  - DOMAIN-SUFFIX,terabox.com
+  - DOMAIN-SUFFIX,teraboxcdn.com
