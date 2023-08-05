@@ -48,6 +48,7 @@ payload:
   - DOMAIN-SUFFIX,u9a9.com
 
   # >> TeraBox
+  - DOMAIN-SUFFIX,1024tera.com
   - DOMAIN-SUFFIX,hotmediahub.com
   - DOMAIN-SUFFIX,terabox.com
   - DOMAIN-SUFFIX,terabox.fun
