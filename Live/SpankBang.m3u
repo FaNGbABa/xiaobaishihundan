@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1,tvg-id="" tvg-name="Adela-Ail" tvg-logo="https://raw.githubusercontent.com/FaNGbABa/xiaobaishihundan/main/Icon/SpankBang.png" group-title="SpankBang",Adela-Ail
+https://edge-hls.doppiocdn.com/hls/118297084/master/118297084.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="Happy-bibi" tvg-logo="https://raw.githubusercontent.com/FaNGbABa/xiaobaishihundan/main/Icon/SpankBang.png" group-title="SpankBang",Happy-bibi
+https://edge-hls.doppiocdn.com/hls/1121071547/master/1121071547.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="may_tion" tvg-logo="https://raw.githubusercontent.com/FaNGbABa/xiaobaishihundan/main/Icon/SpankBang.png" group-title="SpankBang",may_tion
+https://edge-hls.doppiocdn.com/hls/119554712/master/119554712.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="Liz_Hu" tvg-logo="https://raw.githubusercontent.com/FaNGbABa/xiaobaishihundan/main/Icon/SpankBang.png" group-title="SpankBang",Liz_Hu
 https://edge-hls.doppiocdn.com/hls/21107671/master/21107671.m3u8    
 #EXTINF:-1,tvg-id="" tvg-name="Fresh_Fruit" tvg-logo="https://raw.githubusercontent.com/FaNGbABa/xiaobaishihundan/main/Icon/SpankBang.png" group-title="SpankBang",Fresh_Fruit
