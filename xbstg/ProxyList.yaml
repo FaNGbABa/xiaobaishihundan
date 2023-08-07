@@ -42,10 +42,15 @@ payload:
   - DOMAIN-SUFFIX,ipjiance.com
 
   # >> 18+
+  - DOMAIN-SUFFIX,nyaa.si
   - DOMAIN-SUFFIX,qwe77.com
+  - DOMAIN-SUFFIX,scanlover.com
   - DOMAIN-SUFFIX,sehuatang.org
   - DOMAIN-SUFFIX,t66y.com
   - DOMAIN-SUFFIX,u9a9.com
+  - DOMAIN-SUFFIX,v2ph.com
+  - DOMAIN-SUFFIX,v2ph.ru
+  - DOMAIN-SUFFIX,v2ph.ovh
 
   # >> TeraBox
   - DOMAIN-SUFFIX,1024tera.com
