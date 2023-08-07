@@ -72,3 +72,15 @@ payload:
   - DOMAIN-SUFFIX,terabox.com
   - DOMAIN-SUFFIX,terabox.fun
   - DOMAIN-SUFFIX,teraboxcdn.com
+
+  # >> SpeedTest
+  - DOMAIN-KEYWORD,speed.misaka
+  - DOMAIN-KEYWORD,speedtest
+  - DOMAIN-SUFFIX,cellmaps.com
+  - DOMAIN-SUFFIX,mapbox.com
+  - DOMAIN-SUFFIX,ookla.com
+  - DOMAIN-SUFFIX,ooklaserver.net
+  - DOMAIN-SUFFIX,speed.cloudflare.com
+  - DOMAIN-SUFFIX,speedtest.net
+  - DOMAIN-SUFFIX,suntechspeedtest.com
+  - PROCESS-NAME,org.zwanoo.android.speedtest
