@@ -52,6 +52,20 @@ payload:
   - DOMAIN-SUFFIX,v2ph.ru
   - DOMAIN-SUFFIX,v2ph.ovh
 
+  # >> 18+ Live
+  - DOMAIN-KEYWORD,spankbanglive
+  - DOMAIN-KEYWORD,stripchat
+  - DOMAIN-SUFFIX,amplitude.com
+  - DOMAIN-SUFFIX,datadome.co
+  - DOMAIN-SUFFIX,doppiocdn.com
+  - DOMAIN-SUFFIX,sc-apps.com
+  - DOMAIN-SUFFIX,stripst.com
+  - DOMAIN-SUFFIX,strpst.com
+  - DOMAIN-SUFFIX,xhamsterlive.com
+  - DOMAIN-SUFFIX,xlivesex.com
+  - DOMAIN-SUFFIX,xxxivjmp.com
+  - DOMAIN-SUFFIX,xxxviiijmp.com
+
   # >> TeraBox
   - DOMAIN-SUFFIX,1024tera.com
   - DOMAIN-SUFFIX,hotmediahub.com
