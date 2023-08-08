@@ -52,6 +52,8 @@ jobs:
         sed -i 's/group-title="超清频道"/group-title="范明明-IPv6"/g' iptv/fanmingming.m3u
         sed -i 's/group-title="北京频道"/group-title="范明明-IPv6"/g' iptv/fanmingming.m3u
         sed -i 's/group-title="浙江频道"/group-title="范明明-IPv6"/g' iptv/fanmingming.m3u
+        sed -i 's/group-title="广东频道"/group-title="范明明-IPv6"/g' iptv/fanmingming.m3u
+        sed -i 's/group-title="其他频道"/group-title="范明明-IPv6"/g' iptv/fanmingming.m3u
         sed -i 's/group-title="上海频道"/group-title="范明明-IPv6"/g' iptv/fanmingming.m3u
         sed -i 's/group-title="江西"/group-title="范明明-IPv6"/g' iptv/fanmingming.m3u
         sed -i 's/group-title="四川频道"/group-title="范明明-IPv6"/g' iptv/fanmingming.m3u
