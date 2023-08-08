@@ -49,9 +49,21 @@ payload:
   - DOMAIN-SUFFIX,t66y.com
   - DOMAIN-SUFFIX,u9a9.com
   - DOMAIN-SUFFIX,v2ph.com
-  - DOMAIN-SUFFIX,v2ph.ru
   - DOMAIN-SUFFIX,v2ph.ovh
+  - DOMAIN-SUFFIX,v2ph.ru
+  - DOMAIN-SUFFIX,xslist.org
 
+  # >> One 一个
+  - DOMAIN-SUFFIX,api.47x94fa8.com
+  - DOMAIN-SUFFIX,api.tmco2kfw.com
+  - DOMAIN-SUFFIX,api.xcspu0ej.com
+  - DOMAIN-SUFFIX,api.xh7x6zhb.com
+  - DOMAIN-SUFFIX,api.ysf00rv0.com
+  - DOMAIN-SUFFIX,jmtp.helilyvre.com
+  - DOMAIN-SUFFIX,jmvd.njhedi.com
+  - DOMAIN-SUFFIX,vd.qcwldslz.com
+  - PROCESS-NAME,com.hihanhan.one.rt45
+  
   # >> 18+ Live
   - DOMAIN-KEYWORD,spankbanglive
   - DOMAIN-KEYWORD,stripchat
@@ -84,3 +96,9 @@ payload:
   - DOMAIN-SUFFIX,speedtest.net
   - DOMAIN-SUFFIX,suntechspeedtest.com
   - PROCESS-NAME,org.zwanoo.android.speedtest
+
+  # >> pinterest
+  - DOMAIN-KEYWORD,pinimg.com
+  - DOMAIN-KEYWORD,pinterest.
+  - DOMAIN-SUFFIX,pin.it
+  - DOMAIN-SUFFIX,pinimg.com
