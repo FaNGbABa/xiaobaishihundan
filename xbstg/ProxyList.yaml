@@ -1,6 +1,4 @@
 payload:
-  # >> 需要代理的网站
-  - DOMAIN-SUFFIX,archive.org
 
   # >> VSCO
   - DOMAIN-SUFFIX,vsco.co
@@ -105,3 +103,7 @@ payload:
   - DOMAIN-KEYWORD,pinterest.
   - DOMAIN-SUFFIX,pin.it
   - DOMAIN-SUFFIX,pinimg.com
+  
+  # >> 其它需要代理的网站
+  - DOMAIN-SUFFIX,archive.org
+  - DOMAIN-SUFFIX,imgur.com
