@@ -1,6 +1,9 @@
 payload:
   # >> 需要代理的网站
   - DOMAIN-SUFFIX,archive.org
+
+  # >> VSCO
+  - DOMAIN-SUFFIX,vsco.co
   
   # Emby
   - DOMAIN-SUFFIX,789.123456.al
