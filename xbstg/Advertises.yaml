@@ -546,6 +546,7 @@ payload:
   - DOMAIN-SUFFIX,rads.msn.com
   - DOMAIN-SUFFIX,re.m.taobao.com
   - DOMAIN-SUFFIX,re.taobao.com
+  - DOMAIN-SUFFIX,reachmax.cn
   - DOMAIN-SUFFIX,redirect.simba.taobao.com
   - DOMAIN-SUFFIX,report.meituan.com
   - DOMAIN-SUFFIX,res.hubcloud.com.cn
@@ -557,6 +558,7 @@ payload:
   - DOMAIN-SUFFIX,rm.gdt.qq.com
   - DOMAIN-SUFFIX,roi.soulapp.cn
   - DOMAIN-SUFFIX,rpt.gdt.qq.com
+  - DOMAIN-SUFFIX,rtbasia.com
   - DOMAIN-SUFFIX,s.alitui.weibo.com
   - DOMAIN-SUFFIX,s.jpush.cn
   - DOMAIN-SUFFIX,safebrowsing.googleapis.com
