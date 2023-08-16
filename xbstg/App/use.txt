@@ -1,0 +1,51 @@
+payload:
+  # >> 12306
+  - DOMAIN-SUFFIX,12306.cn
+
+  # >> 拼多多
+  - DOMAIN-SUFFIX,pddpic.com
+  - DOMAIN-SUFFIX,pddugc.com
+  - DOMAIN-SUFFIX,pinduoduo.com
+  - DOMAIN-SUFFIX,pinduoduo.net
+  - IP-CIDR,101.35.204.35/32
+  - IP-CIDR,101.35.212.35/32
+  - IP-CIDR,112.85.70.157/32
+  - IP-CIDR,113.194.61.222/32
+  - IP-CIDR,114.110.97.30/32
+  - IP-CIDR,119.167.229.139/32
+  - IP-CIDR,119.167.254.41/32
+  - IP-CIDR,123.129.234.41/32
+  - IP-CIDR,123.135.106.13/32
+  - IP-CIDR,124.132.138.31/32
+  - IP-CIDR,140.206.232.17/32
+  - IP-CIDR,153.3.240.56/32
+  - IP-CIDR,218.58.169.67/32
+  - IP-CIDR,220.196.137.227/32
+  - IP-CIDR,27.221.14.104/32
+  - IP-CIDR,58.23.175.20/32
+  - IP-CIDR,60.18.198.55/32
+  - IP-CIDR,60.221.18.41/32
+  - IP-CIDR,61.162.101.24/32
+  - IP-CIDR,61.179.105.118/32
+
+  # >> 喜马拉雅
+  - DOMAIN-SUFFIX,joinchitchat.com
+  - DOMAIN-SUFFIX,ximalaya.com
+  - DOMAIN-SUFFIX,xmcdn.com
+
+  # >> 青岛地铁
+  - DOMAIN-SUFFIX,qd-metro.com
+
+  # >> 网易邮箱
+  - DOMAIN-SUFFIX,163.com
+  - DOMAIN-SUFFIX,mimg.127.net
+
+  # >> 网易云音乐
+  - DOMAIN-SUFFIX,music.126.net
+  - DOMAIN-SUFFIX,netease.com
+  
+  # >> 美团
+  - DOMAIN-SUFFIX,dianping.com
+  - DOMAIN-SUFFIX,meituan.com
+  - DOMAIN-SUFFIX,meituan.net
+  - DOMAIN-SUFFIX,sankuai.com
