@@ -74,11 +74,64 @@ payload:
   - IP-CIDR,139.99.40.48/32
   - IP-CIDR,162.159.195.95/32
 
+  # >> Apkpure
+  - DOMAIN-SUFFIX,apkpure.com
+  - DOMAIN-SUFFIX,cdnpure.com
+  - DOMAIN-SUFFIX,pureapk.com
+  - DOMAIN-SUFFIX,winudf.com
+
 
 
   # >>>>>>>>>>>>>>> ✅ B ✅ <<<<<<<<<<<<<<
   # >>>>>>>>>>>>>>> ✅ C ✅ <<<<<<<<<<<<<<
   # >>>>>>>>>>>>>>> ✅ D ✅ <<<<<<<<<<<<<<
+  # >> Duckduckgo
+  - DOMAIN-SUFFIX,cispaletter.com
+  - DOMAIN-SUFFIX,cispaletter.org
+  - DOMAIN-SUFFIX,cometotheduckside.com
+  - DOMAIN-SUFFIX,ddg.co
+  - DOMAIN-SUFFIX,ddg.gg
+  - DOMAIN-SUFFIX,ddh.gg
+  - DOMAIN-SUFFIX,dgg.gg
+  - DOMAIN-SUFFIX,dontbubble.us
+  - DOMAIN-SUFFIX,donttrack.us
+  - DOMAIN-SUFFIX,duck.co
+  - DOMAIN-SUFFIX,duck.com
+  - DOMAIN-SUFFIX,duckduckco.com
+  - DOMAIN-SUFFIX,duckduckco.de
+  - DOMAIN-SUFFIX,duckduckgo.ca
+  - DOMAIN-SUFFIX,duckduckgo.co
+  - DOMAIN-SUFFIX,duckduckgo.co.uk
+  - DOMAIN-SUFFIX,duckduckgo.com
+  - DOMAIN-SUFFIX,duckduckgo.com.mx
+  - DOMAIN-SUFFIX,duckduckgo.com.tw
+  - DOMAIN-SUFFIX,duckduckgo.de
+  - DOMAIN-SUFFIX,duckduckgo.dk
+  - DOMAIN-SUFFIX,duckduckgo.in
+  - DOMAIN-SUFFIX,duckduckgo.jp
+  - DOMAIN-SUFFIX,duckduckgo.ke
+  - DOMAIN-SUFFIX,duckduckgo.mx
+  - DOMAIN-SUFFIX,duckduckgo.nl
+  - DOMAIN-SUFFIX,duckduckgo.org
+  - DOMAIN-SUFFIX,duckduckgo.pl
+  - DOMAIN-SUFFIX,duckduckgo.sg
+  - DOMAIN-SUFFIX,duckduckgo.uk
+  - DOMAIN-SUFFIX,duckduckhack.com
+  - DOMAIN-SUFFIX,duckgo.com
+  - DOMAIN-SUFFIX,ducksear.ch
+  - DOMAIN-SUFFIX,duckside.com
+  - DOMAIN-SUFFIX,dukgo.com
+  - DOMAIN-SUFFIX,enteentegeh.de
+  - DOMAIN-SUFFIX,fixtracking.com
+  - DOMAIN-SUFFIX,goduckgo.com
+  - DOMAIN-SUFFIX,hacksear.ch
+  - DOMAIN-SUFFIX,justduckit.com
+  - DOMAIN-SUFFIX,privacysimplified.com
+  - DOMAIN-SUFFIX,privatebrowsingmyths.com
+  - DOMAIN-SUFFIX,spreadprivacy.com
+
+
+  
   # >>>>>>>>>>>>>>> ✅ E ✅ <<<<<<<<<<<<<<
   # >> Emby
   - DOMAIN-SUFFIX,789.123456.al
@@ -165,11 +218,40 @@ payload:
 
 
   # >>>>>>>>>>>>>>> ✅ H ✅ <<<<<<<<<<<<<<
+  # >> Heroku
+  - DOMAIN-SUFFIX,codei.sh
+  - DOMAIN-SUFFIX,codeish.co
+  - DOMAIN-SUFFIX,codeish.io
+  - DOMAIN-SUFFIX,heroku-app.com
+  - DOMAIN-SUFFIX,heroku-charge.com
+  - DOMAIN-SUFFIX,heroku.co
+  - DOMAIN-SUFFIX,heroku.com
+  - DOMAIN-SUFFIX,heroku.me
+  - DOMAIN-SUFFIX,herokuapp.com
+  - DOMAIN-SUFFIX,herokucdn.com
+  - DOMAIN-SUFFIX,herokucharge.com
+  - DOMAIN-SUFFIX,herokussl.com
+
+
+  
   # >>>>>>>>>>>>>>> ✅ I ✅ <<<<<<<<<<<<<<
+  # >> Imgur
+  - DOMAIN-SUFFIX,imgur.com
+  - DOMAIN-SUFFIX,imgur.io
+  - DOMAIN-SUFFIX,imgurinc.com
+
+
+  
   # >>>>>>>>>>>>>>> ✅ J ✅ <<<<<<<<<<<<<<
   # >>>>>>>>>>>>>>> ✅ K ✅ <<<<<<<<<<<<<<
   # >>>>>>>>>>>>>>> ✅ L ✅ <<<<<<<<<<<<<<
   # >>>>>>>>>>>>>>> ✅ M ✅ <<<<<<<<<<<<<<
+  # >> Mega
+  - DOMAIN-SUFFIX,mega.co.nz
+  - DOMAIN-SUFFIX,mega.io
+  - DOMAIN-SUFFIX,mega.nz
+  - PROCESS-NAME,mega.privacy.android.app
+  
   # >> Meta
   - DOMAIN-KEYWORD,facebook
   - DOMAIN-KEYWORD,fbcdn
@@ -560,10 +642,41 @@ payload:
   - DOMAIN-SUFFIX,pin.it
   - DOMAIN-SUFFIX,pinimg.com
 
+  # >> Pixiv
+  - DOMAIN-SUFFIX,ads-pixiv.net
+  - DOMAIN-SUFFIX,booth.pm
+  - DOMAIN-SUFFIX,fanbox.cc
+  - DOMAIN-SUFFIX,pixiv.cat
+  - DOMAIN-SUFFIX,pixiv.co.jp
+  - DOMAIN-SUFFIX,pixiv.me
+  - DOMAIN-SUFFIX,pixiv.net
+  - DOMAIN-SUFFIX,pixiv.org
+  - DOMAIN-SUFFIX,pximg.net
+
+  # >> PornHub
+  - DOMAIN-SUFFIX,gaytube.com
+  - DOMAIN-SUFFIX,phncdn.com
+  - DOMAIN-SUFFIX,phprcdn.com
+  - DOMAIN-SUFFIX,porngub.com
+  - DOMAIN-SUFFIX,pornhub-deutsch.net
+  - DOMAIN-SUFFIX,pornhub.com
+  - DOMAIN-SUFFIX,pornhub.org
+  - DOMAIN-SUFFIX,pornhubapparel.com
+  - DOMAIN-SUFFIX,pornhubpremium.com
+
 
 
   # >>>>>>>>>>>>>>> ✅ Q ✅ <<<<<<<<<<<<<<
   # >>>>>>>>>>>>>>> ✅ R ✅ <<<<<<<<<<<<<<
+  # >> Reddit
+  - DOMAIN-SUFFIX,redd.it
+  - DOMAIN-SUFFIX,reddit.com
+  - DOMAIN-SUFFIX,redditmail.com
+  - DOMAIN-SUFFIX,redditmedia.com
+  - DOMAIN-SUFFIX,redditstatic.com
+
+
+  
   # >>>>>>>>>>>>>>> ✅ S ✅ <<<<<<<<<<<<<<
   # >> SpeedTest
   - DOMAIN-KEYWORD,speed.misaka
@@ -576,6 +689,12 @@ payload:
   - DOMAIN-SUFFIX,speedtest.net
   - DOMAIN-SUFFIX,suntechspeedtest.com
   - PROCESS-NAME,org.zwanoo.android.speedtest
+
+  # >> SublimeText
+  - DOMAIN-SUFFIX,sublimetext.com
+  - DOMAIN-SUFFIX,sublimehq.com
+  - DOMAIN-SUFFIX,sublimemerge.com
+  - DOMAIN-SUFFIX,packagecontrol.io
 
 
 
@@ -711,6 +830,35 @@ payload:
   # >> v2ex
   - DOMAIN-SUFFIX,v2ex.com
 
+  # Vercel
+  - DOMAIN-SUFFIX,err.sh
+  - DOMAIN-SUFFIX,hyper.is
+  - DOMAIN-SUFFIX,nextjs.org
+  - DOMAIN-SUFFIX,now.sh
+  - DOMAIN-SUFFIX,static.fun
+  - DOMAIN-SUFFIX,title.sh
+  - DOMAIN-SUFFIX,turborepo.org
+  - DOMAIN-SUFFIX,vercel-analytics.com
+  - DOMAIN-SUFFIX,vercel-dns.com
+  - DOMAIN-SUFFIX,vercel-insights.com
+  - DOMAIN-SUFFIX,vercel-status.com
+  - DOMAIN-SUFFIX,vercel.app
+  - DOMAIN-SUFFIX,vercel.blog
+  - DOMAIN-SUFFIX,vercel.com
+  - DOMAIN-SUFFIX,vercel.events
+  - DOMAIN-SUFFIX,vercel.link
+  - DOMAIN-SUFFIX,vercel.live
+  - DOMAIN-SUFFIX,vercel.pub
+  - DOMAIN-SUFFIX,vercel.sh
+  - DOMAIN-SUFFIX,vercel.store
+  - DOMAIN-SUFFIX,zeit-world.co.uk
+  - DOMAIN-SUFFIX,zeit-world.com
+  - DOMAIN-SUFFIX,zeit-world.net
+  - DOMAIN-SUFFIX,zeit-world.org
+  - DOMAIN-SUFFIX,zeit.co
+  - DOMAIN-SUFFIX,zeit.sh
+  - DOMAIN-SUFFIX,zeitworld.com
+  
   # >> VSCO
   - DOMAIN-SUFFIX,vsco.co
 
