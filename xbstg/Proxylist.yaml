@@ -830,7 +830,7 @@ payload:
   # >> v2ex
   - DOMAIN-SUFFIX,v2ex.com
 
-  # Vercel
+  # >> Vercel
   - DOMAIN-SUFFIX,err.sh
   - DOMAIN-SUFFIX,hyper.is
   - DOMAIN-SUFFIX,nextjs.org
