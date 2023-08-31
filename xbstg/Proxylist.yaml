@@ -882,6 +882,11 @@ payload:
 
 
   # >>>>>>>>>>>>>>> ✅ X ✅ <<<<<<<<<<<<<<
+  # >> XDA
+  - DOMAIN-SUFFIX,xda-developers.com
+
+
+  
   # >>>>>>>>>>>>>>> ✅ Y ✅ <<<<<<<<<<<<<<
   # >> Wikipedia
   - DOMAIN-SUFFIX,mediawiki.org
