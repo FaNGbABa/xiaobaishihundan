@@ -1,4 +1,7 @@
-payload:
+payload: 
+  # >> test 
+  - DOMAIN-SUFFIX,cdn.ampproject.org
+  
   # >> 扫描全能王
   - DOMAIN-SUFFIX,open.camscanner.com
   
