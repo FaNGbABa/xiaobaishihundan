@@ -8,6 +8,7 @@ payload:
   # >> 其它需要代理的网站
   - DOMAIN-SUFFIX,archive.org
   - DOMAIN-SUFFIX,imgur.com
+  - DOMAIN-SUFFIX,stream-link.org
 
   # >> 资讯新闻网站
   - DOMAIN-SUFFIX,businessinsider.com
