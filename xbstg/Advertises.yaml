@@ -1,9 +1,9 @@
 payload: 
   # >> test 
-  - DOMAIN-SUFFIX,cdn.ampproject.org
+  # - DOMAIN-SUFFIX,cdn.ampproject.org
   
   # >> 扫描全能王
-  - DOMAIN-SUFFIX,open.camscanner.com
+  # - DOMAIN-SUFFIX,open.camscanner.com
   
   # >> advertises
   - DOMAIN,acdn.adnxs.com,reject
