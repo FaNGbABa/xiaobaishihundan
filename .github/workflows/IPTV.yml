@@ -36,11 +36,6 @@ jobs:
 
     - name: Obtain IPTV list
       run: |
-        curl -LR -o iptv/sxg.m3u "https://raw.githubusercontent.com/FaNGbABa/xiaobaishihundan/main/Live/sxg.m3u"
-        curl -LR -o iptv/huya.m3u "https://raw.githubusercontent.com/FaNGbABa/xiaobaishihundan/main/Live/huya.m3u"
-        curl -LR -o iptv/douyu.m3u "https://raw.githubusercontent.com/FaNGbABa/xiaobaishihundan/main/Live/douyu.m3u"
-        curl -LR -o iptv/bilibili.m3u "https://raw.githubusercontent.com/FaNGbABa/xiaobaishihundan/main/Live/bilibili.m3u"
-        curl -LR -o iptv/iptv.m3u "https://raw.githubusercontent.com/FaNGbABa/xiaobaishihundan/main/Live/maiduidui.m3u"
         curl -LR -o iptv/YueChan.m3u "https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u"
         curl -LR -o iptv/fanmingming.m3u "https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u"
         sed -i '1d' iptv/fanmingming.m3u
@@ -70,6 +65,9 @@ jobs:
         sed -i 's/group-title="山西频道"/group-title="范明明-IPv6"/g' iptv/fanmingming.m3u
         sed -i 's/group-title="贵州频道"/group-title="范明明-IPv6"/g' iptv/fanmingming.m3u
         sed -i 's/group-title="重庆频道"/group-title="范明明-IPv6"/g' iptv/fanmingming.m3u
+        sed -i 's/group-title="陕西频道"/group-title="范明明-IPv6"/g' iptv/fanmingming.m3u
+        sed -i 's/group-title="赛事直播"/group-title="范明明-IPv6"/g' iptv/fanmingming.m3u
+        sed -i 's/group-title="购物频道"/group-title="范明明-IPv6"/g' iptv/fanmingming.m3u
         sed -i 's/group-title="央视"/group-title="YueChan-IPv6"/g' iptv/YueChan.m3u
         sed -i 's/group-title="国际"/group-title="YueChan-IPv6"/g' iptv/YueChan.m3u
         sed -i 's/group-title="卫视"/group-title="YueChan-IPv6"/g' iptv/YueChan.m3u
