@@ -39,6 +39,7 @@ jobs:
         curl -LR -o iptv/YueChan.m3u "https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u"
         curl -LR -o iptv/fanmingming.m3u "https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u"
         curl -LR -o iptv/meroser.m3u "https://raw.githubusercontent.com/Meroser/IPTV/main/IPTV.m3u"
+        curl -LR -o iptv/global.m3u "https://raw.githubusercontent.com/YueChan/Live/main/Global.m3u"
         sed -i '1d' iptv/fanmingming.m3u
         sed -i 's/group-title="央视频道"/group-title="范明明-IPv6"/g' iptv/fanmingming.m3u
         sed -i 's/group-title="港澳频道"/group-title="范明明-IPv6"/g' iptv/fanmingming.m3u
@@ -82,6 +83,7 @@ jobs:
         sed -i 's/group-title="地方"/group-title="Meroser-IPv6"/g' iptv/meroser.m3u
         sed -i 's/group-title="NewTV"/group-title="Meroser-IPv6"/g' iptv/meroser.m3u
         sed -i 's/group-title="咪咕"/group-title="Meroser-IPv6"/g' iptv/meroser.m3u
+        sed -i 's/group-title="国际"/group-title="YueChan-Global"/g' iptv/global.m3u
         
         
         
