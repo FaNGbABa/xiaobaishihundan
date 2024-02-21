@@ -78,10 +78,10 @@ jobs:
         sed -i 's/group-title="卫视"/group-title="YueChan-IPv6"/g' iptv/YueChan.m3u
         sed -i 's/group-title="地方"/group-title="YueChan-IPv6"/g' iptv/YueChan.m3u
         sed -i 's/group-title="数字"/group-title="YueChan-IPv6"/g' iptv/YueChan.m3u
-        sed -i 's/group-title="央视"/group-title="Meroser-IPv6"/g' iptv/meroser.m3u
-        sed -i 's/group-title="卫视"/group-title="Meroser-IPv6"/g' iptv/meroser.m3u
-        sed -i 's/group-title="数字"/group-title="Meroser-IPv6"/g' iptv/meroser.m3u
-        sed -i 's/group-title="国际"/group-title="Meroser-IPv6"/g' iptv/meroser.m3u
+        sed -i 's/group-title="央视高清"/group-title="Meroser-IPv6"/g' iptv/meroser.m3u
+        sed -i 's/group-title="卫视高清"/group-title="Meroser-IPv6"/g' iptv/meroser.m3u
+        sed -i 's/group-title="数字高清"/group-title="Meroser-IPv6"/g' iptv/meroser.m3u
+        sed -i 's/group-title="国际时事"/group-title="Meroser-IPv6"/g' iptv/meroser.m3u
         sed -i 's/group-title="湖南"/group-title="Meroser-IPv6"/g' iptv/meroser.m3u
         sed -i 's/group-title="地方"/group-title="Meroser-IPv6"/g' iptv/meroser.m3u
         sed -i 's/group-title="NewTV"/group-title="Meroser-IPv6"/g' iptv/meroser.m3u
