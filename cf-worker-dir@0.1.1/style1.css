@@ -14,9 +14,7 @@ header {
 }
 
 #head {
-  background-image: background-image: url('https://tinyjpg.com/images/social/website.jpg');
-  background-size: cover;
-  background-position: center;
+  background-image: linear-gradient(to top, #d1d2d4 0%, #09203f 100%);
 }
 
 #nav .item {
