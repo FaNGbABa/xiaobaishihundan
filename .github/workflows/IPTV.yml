@@ -44,7 +44,6 @@ jobs:
         curl -LR -o iptv/Linyi.m3u "https://gist.githubusercontent.com/FaNGbABa/2247eb165ecb43c1a0771d6ca16d70eb/raw/Linyi.m3u"
         curl -LR -o iptv/Rizhao.m3u "https://gist.githubusercontent.com/FaNGbABa/2247eb165ecb43c1a0771d6ca16d70eb/raw/Rizhao.m3u"
         curl -LR -o iptv/Chengdu.m3u "https://gist.githubusercontent.com/FaNGbABa/2247eb165ecb43c1a0771d6ca16d70eb/raw/Chengdu.m3u"
-        curl -LR -o iptv/Guangdongfeicui.m3u "http://iptv.hiper25.com:8089/channels.m3u"
         curl -LR -o iptv/hktv.m3u "https://gist.githubusercontent.com/FaNGbABa/2247eb165ecb43c1a0771d6ca16d70eb/raw/hktv.m3u"
         sed -i '1d' iptv/fanmingming.m3u
         sed -i 's/group-title="央视频道"/group-title="范明明-IPv6"/g' iptv/fanmingming.m3u
